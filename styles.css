@@ -36,5 +36,5 @@ body {
   
   /* 活性・非活性 */
   .inactive {
-    opacity: 0.6
+    opacity: 0.6;
   }
