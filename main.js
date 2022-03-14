@@ -29,7 +29,7 @@
   function setButtonStateInitial() {
     start.classList.remove('inactive'); // 活性
     stop.classList.add('inactive')    // 非活性
-    reset.classList.add('inactive')   // 非活性
+    reset.classList.add('inactive')
   }
 
   // 状態:タイマー動作中
